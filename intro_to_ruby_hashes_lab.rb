@@ -7,11 +7,11 @@ def my_hash
 end
 
 def pioneer
-  pioneer = {:name "Grace Hopper"}
+  pioneer = {:name => "Grace Hopper"}
 end
   
-  
-  (hash, key)
+ def id_generator(hash, key)
+   id_generator = {:id = "1"}
   # return the correct value using the hash and key parameters
 end
 
