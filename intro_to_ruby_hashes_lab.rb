@@ -7,7 +7,11 @@ def my_hash
 end
 
 def pioneer
-  pioneer = {:name =>"G(hash, key)
+  pioneer = {:name "Grace Hopper"}
+end
+  
+  
+  (hash, key)
   # return the correct value using the hash and key parameters
 end
 
